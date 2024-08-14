@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4123205f54557dd47ad20d70a7219433, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  CharacterName: "\uAD81\uC218"
+  CharacterDescription: "\uD65C\uB85C \uBA40\uB9AC \uC788\uB294 \uC801\uC744 \uACF5\uACA9\uD569\uB2C8\uB2E4"
+  ID: 0
+  Lv: 1
+  MovementSpeed: 4
+  unitType: 1
+  UnitCost: 250
+  Atk: 40
+  Mp: 0
+  AttackSpeed: 1
+  AtkRange: 6
+  AtkArea: 0
+  EffectOnEnemy1: 0
+  DoubleAttack: 0
+  Grade: 0
+  AttackIncrement: 5
+  AttackSpeedIncrement: -0.1
+  MoveSpeedIncrement: 0.3

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7de68a03b76b65147930edb034d85c14, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  CharacterName: "\uD574\uACE8"
+  CharacterDescription: "\uC5B8\uB370\uB4DC\uB85C \uBD80\uD65C\uD558\uB294 \uD2B9\uC131\uC744
+    \uAC00\uC9C0\uACE0 \uC788\uB2E4."
+  ID: 104
+  Lv: 7
+  MovementSpeed: 4
+  unitType: 0
+  Hp: 200
+  ADDef: 15
+  APDef: 12
+  DefType: 0

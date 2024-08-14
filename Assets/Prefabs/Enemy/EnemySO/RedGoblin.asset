@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7de68a03b76b65147930edb034d85c14, type: 3}
+  m_Name: RedGoblin
+  m_EditorClassIdentifier: 
+  CharacterName: "\uBE68\uAC04\uACE0\uBE14\uB9B0"
+  CharacterDescription: "\uAE30\uBCF8 \uACE0\uBE14\uB9B0\uC758 \uC9C4\uD654 \uD615\uD0DC.
+    \uC774\uB3D9\uC18D\uB3C4\uAC00 \uBE60\uB978 \uC810\uC774 \uD2B9\uC9D5\uC774\uB2E4"
+  ID: 102
+  Lv: 2
+  MovementSpeed: 7
+  unitType: 0
+  Hp: 200
+  ADDef: 10
+  APDef: 10
+  DefType: 0

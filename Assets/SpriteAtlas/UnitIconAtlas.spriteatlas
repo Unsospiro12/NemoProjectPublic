@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UnitIconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: -641280383, guid: f734b2c9f1a216b448220c24ebce24a8, type: 3}
+    - {fileID: 1114255108, guid: af4ff2b8cf751044ea9f13067b365e17, type: 3}
+    - {fileID: -93062219, guid: 55c54bcdd5860b24babb52a667f4f675, type: 3}
+    - {fileID: -643137796, guid: 32f95aa44d8912545b198e8de74009b5, type: 3}
+    - {fileID: 269702244, guid: 7d70030de32f741489e9fef55f2fad0f, type: 3}
+    - {fileID: 333147240, guid: ebb6bbaef202ec042ade3439f659bc2a, type: 3}
+    - {fileID: -1006369405, guid: c691bffcb15a9424daab17c5a2f70519, type: 3}
+    - {fileID: 1127240609, guid: 01e626a878b5bcc48ba9c5d670386aa3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 32f95aa44d8912545b198e8de74009b5: -643137796
+    - 01e626a878b5bcc48ba9c5d670386aa3: 1127240609
+    - af4ff2b8cf751044ea9f13067b365e17: 1114255108
+    - f734b2c9f1a216b448220c24ebce24a8: -641280383
+    - c691bffcb15a9424daab17c5a2f70519: -1006369405
+    - 7d70030de32f741489e9fef55f2fad0f: 269702244
+    - 55c54bcdd5860b24babb52a667f4f675: -93062219
+    - ebb6bbaef202ec042ade3439f659bc2a: 333147240
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -643137796, guid: 32f95aa44d8912545b198e8de74009b5, type: 3}
+  - {fileID: 1127240609, guid: 01e626a878b5bcc48ba9c5d670386aa3, type: 3}
+  - {fileID: 1114255108, guid: af4ff2b8cf751044ea9f13067b365e17, type: 3}
+  - {fileID: -641280383, guid: f734b2c9f1a216b448220c24ebce24a8, type: 3}
+  - {fileID: -1006369405, guid: c691bffcb15a9424daab17c5a2f70519, type: 3}
+  - {fileID: 269702244, guid: 7d70030de32f741489e9fef55f2fad0f, type: 3}
+  - {fileID: -93062219, guid: 55c54bcdd5860b24babb52a667f4f675, type: 3}
+  - {fileID: 333147240, guid: ebb6bbaef202ec042ade3439f659bc2a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Goblin_Sprite_1_0_idle_0_0
+  - Skelton_Sprite_1_0_idle_0_0
+  - Assassin_Sprite_1_0_idle_0_0
+  - Archer_Sprite_1_0_idle_0_0
+  - RedGoblin_Sprite_1_0_idle_0_0
+  - GoblinGeneral_Sprite_1_0_idle_0_0
+  - Barbarain_Sprite_1_0_idle_0_1
+  - Infantry_Sprite_1_0_idle_0_0
+  m_RenderDataMap: {}
+  m_Tag: UnitIconAtlas
+  m_IsVariant: 0
